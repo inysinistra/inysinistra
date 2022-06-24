@@ -1,0 +1,4 @@
+- 👋 eai,meu nome é heloysa
+- 👀 meu email de contato é heloysa.ricardo@escola.pr.gov.br
+- 🌱 eu estou interessada em aprender a programar novas linguagens
+- 💞️ eu estou aprendendo a programar recentemente alinguagem de JavaScript e Scratch
